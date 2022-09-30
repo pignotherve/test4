@@ -1,0 +1,52 @@
+/*feuille de style qui permet de styliser les elements html*/
+/*on ecrira
+
+selecteur{
+    instruction
+    proprieter : valeur;
+}
+*/
+body{
+    background-color: bisque;
+}
+
+
+
+
+
+section{
+    background-color: brown;
+}
+p{
+    color: deeppink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*appel d une class*/
+.toto{
+    color: aqua;
+}
+/*appel de balise*/
+h1{
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+}
+/*appel de l id*/
+#unique{
+background-color: black;
+color: antiquewhite;
+}
